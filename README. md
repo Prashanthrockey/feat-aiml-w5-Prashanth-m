@@ -1,0 +1,12 @@
+Week 5: LLM Engineering, Evaluation & Cost Control
+
+Hands-on code and notebooks for scaling LLM applications reliably—moving past basic API wrappers into guardrails, evals, agents, fine-tuning, advanced RAG, and cost optimization.
+
+What's in this week
+
+* Day 1:** Guardrails & Structured Outputs (Pydantic schemas, injection defense)
+* Day 2:** Evaluation & Tracing (RAGAS framework for faithfulness and relevance)
+* Day 3:** Agentic Workflows (ReAct loops, function calling, tool use)
+* Day 4:** Fine-Tuning (JSONL dataset formatting, training jobs)
+* Day 5:** Advanced RAG (Hybrid search, cross-encoder reranking, HyDE)
+* Day 6:** Cost Optimisation (`tiktoken` audits, LLMLingua compression, Redis semantic caching, model routing)
